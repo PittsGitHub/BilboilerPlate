@@ -2,7 +2,6 @@ import { useState } from 'react'
 
 function App() {
   const [clicked, setClicked] = useState(false)
-  const badly = ['formatted', 'code']
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-indigo-800 via-purple-800 to-pink-700 text-white flex flex-col items-center justify-center p-8 space-y-6">
