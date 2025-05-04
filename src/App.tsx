@@ -17,9 +17,7 @@ function App() {
         'p-8 space-y-6'
       )}
     >
-      <h1 className="text-5xl font-bold tracking-tight">
-        Welcome to PeepBoard
-      </h1>
+      <h1 className="text-5xl font-bold tracking-tight">Welcome to BilBoard</h1>
       <p className="text-lg text-pink-100">
         TailwindCSS is working beautifully — let's start building.
       </p>
